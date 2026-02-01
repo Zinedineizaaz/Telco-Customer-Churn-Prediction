@@ -47,12 +47,10 @@ I compared three iterations of the model. The focus was on improving the **Recal
 ### Visual Comparison
 
 **Before Optimization (Baseline):**
-> *Insert your first Confusion Matrix image here (The Blue One)*
-![Baseline Confusion Matrix](path_to_your_blue_image.png)
+![Baseline Confusion Matrix](images/confusion_matrix_baseline.png)
 
 **After Optimization (Tuned + SMOTE):**
-> *Insert your final Confusion Matrix image here (The Orange One)*
-![Final Confusion Matrix](path_to_your_orange_image.png)
+![Final Confusion Matrix](images/confusion_matrix_smote+tuning_model.png)
 
 ---
 
